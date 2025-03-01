@@ -1,7 +1,7 @@
 
 ---
 
-### ✅ **ไฟล์ `README.md`**
+### ✅ **CommuDAO Web Miner**
 ```md
 # 🚀 DeFi Mining App
 
