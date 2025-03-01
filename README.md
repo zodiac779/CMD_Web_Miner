@@ -85,5 +85,4 @@ DeFi-Mining-App/
 ---
 
 ## 📜 **License**
-MIT License © 2025 **DeFi Mining App**
-```
+MIT License - สามารถใช้ได้ฟรีและแก้ไขโค้ดได้ตามต้องการ 🚀
